@@ -94,3 +94,6 @@ pre { padding: 1rem; overflow-x: auto; }
 pre code { padding: 0; }
 
 footer.site { border-top: 1px solid var(--border); padding: 1.5rem 0; font: 0.85rem system-ui, sans-serif; color: var(--muted); }
+
+.contact { list-style: none; padding: 0; }
+.contact li { margin: 0.5rem 0; }
